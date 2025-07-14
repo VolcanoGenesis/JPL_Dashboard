@@ -1,0 +1,23 @@
+response1xxReceivedCounter,
+response2xxReceivedCounter,
+response3xxReceivedCounter,
+response4xxReceivedCounter,
+response5xxReceivedCounter,
+response400ReceivedCounter,
+response404ReceivedCounter,
+response408ReceivedCounter,
+response424ReceivedCounter,
+response429ReceivedCounter
+# for all outbound proxies
+
+response1xxForwardedCounter,
+response2xxForwardedCounter,
+response3xxForwardedCounter,
+response4xxForwardedCounter,
+response5xxForwardedCounter,
+response400ForwardedCounter,
+response404ForwardedCounter,
+response408ForwardedCounter,
+response424ForwardedCounter,
+response429ForwardedCounter
+#for all inbound proxies

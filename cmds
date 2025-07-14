@@ -1,0 +1,1 @@
+docker cp main.py aditya_py:/home/jovyan :: copying file to the container
